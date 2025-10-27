@@ -29,7 +29,7 @@ All three enhancements are based on my CS-340 Grazioso Salvare project, an inter
 |----------|-------------|------|
 | Software Design & Engineering | Code refactoring, modular structure, error handling, and UI improvements | https://github.com/mattmcnasby91/mattmcnasby91.github.io/blob/main/Software-engingeering.md |
 | Algorithms & Data Structures | Query builder, input validation, and efficient data handling | https://github.com/mattmcnasby91/mattmcnasby91.github.io/blob/main/Algorithms.md |
-| Databases | Secure DB configuration, fallback handling, and improved CRUD reliability | **(link to `databases.md`)** |
+| Databases | Secure DB configuration, fallback handling, and improved CRUD reliability | https://github.com/mattmcnasby91/mattmcnasby91.github.io/blob/main/Databases.md |
 
 ---
 
@@ -37,7 +37,7 @@ All three enhancements are based on my CS-340 Grazioso Salvare project, an inter
 
 My code review, completed early in the capstone, walks through the original project, issues I identified, and the planned enhancements for each of the three categories.
 
- **(link to `code-review.md` or YouTube)**
+ https://www.youtube.com/watch?v=F7ttTPASPog
 
 ---
 
