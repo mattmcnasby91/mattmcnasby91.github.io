@@ -28,7 +28,7 @@ All three enhancements are based on my CS-340 Grazioso Salvare project, an inter
 | Category | Enhancement | Link |
 |----------|-------------|------|
 | Software Design & Engineering | Code refactoring, modular structure, error handling, and UI improvements | https://github.com/mattmcnasby91/mattmcnasby91.github.io/blob/main/Software-engingeering.md |
-| Algorithms & Data Structures | Query builder, input validation, and efficient data handling | **(link to `algorithms.md`)** |
+| Algorithms & Data Structures | Query builder, input validation, and efficient data handling | https://github.com/mattmcnasby91/mattmcnasby91.github.io/blob/main/Algorithms.md |
 | Databases | Secure DB configuration, fallback handling, and improved CRUD reliability | **(link to `databases.md`)** |
 
 ---
